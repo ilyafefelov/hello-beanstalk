@@ -16,7 +16,7 @@ mkdir ~/.aws
 echo "[default]
       aws_access_key_id =
       aws_secret_access_key =
-      region = us-west-1" >> ~/.aws/config
+      region = eu-west-1" >> ~/.aws/config
 
 echo "export PATH=~/.local/bin:$PATH" >> ~/.bash_profile
 source ~/.bash_profile
