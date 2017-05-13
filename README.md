@@ -35,7 +35,7 @@ $ mkdir ~/.aws
 $ echo "[default]
       aws_access_key_id =
       aws_secret_access_key =
-      region = us-west-1" >> ~/.aws/config
+      region = eu-west-1" >> ~/.aws/config
 ```
 
 You'll need to ensure `awsebcli` is in your path.
